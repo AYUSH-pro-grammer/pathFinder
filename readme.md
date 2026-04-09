@@ -1,22 +1,22 @@
 # Pathfinder – Tiny Reaction Game!
 
-Hello!! 👋  
-This is my **first Hack Club Stasis project** and it's a super fun memory + reaction game ⚡
+Hello!! 
+This is my ** Hack Club Stasis project** its based on reaction time and a bit of fun
 
 ---
 
 ## How It Works
 
-- LEDs blink ✨
-- You press buttons ⌨️
-- Turn the knob 🎛️
+- LEDs blink
+- You press buttons 
+- Turn the knob
 - Try to react FAST!!
 
 ### Rules:
-- Press Button 1 → LED1 lights up (brightness depends on knob!)
-- Press Button 2 quickly after → builds combo 👀
-- If you press Button 2 fast enough multiple times → LED2 turns ON 🎉
-- Too slow? 😢 nothing happens
+- Press button 1 -> led 1 lights up 
+- Press button 2 -> quickly after btn1 -> builds combo both will get on
+- if you press button 2 quickly and multiple times then led2 turns on
+- Too slow? nothing happens
 
 ---
 
