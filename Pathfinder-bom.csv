@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"pcb","the main board where all compoents connects",1,8.11,"https://jlcpcb.com/","jlcpcb"
+"LED Indication","it will glow",2,0.10,"https://robu.in/product/tj-l5fytghgmcgsflc2g-a5-togialed-20ma-foggy-green-lens-20%e2%84%8380%e2%84%83-emerald-45-5mm-round-lamp-head-2-8v3-6v-plugind5mm-led-indication-discrete-rohs/","robu"
+"Potentiometers","to increase and decrease the brightness of lights",1,0.62,"https://robu.in/product/rk09k1130a5r-alpsalpine-%c2%b120-10k%cf%89-plugin-potentiometers-variable-resistors-rohs/","robu"
+"Seeed Studio XIAO RP2040 v1.0","microcontroller controllers code ",1,7.00,"https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/","robu"
+"Gateron Milky PRO Switch – 5pin","to send input to microcontroller",1,3.50,"https://meckeys.com/cart/","meckeys"
