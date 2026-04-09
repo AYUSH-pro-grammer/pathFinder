@@ -1,7 +1,7 @@
 # Pathfinder – Tiny Reaction Game!
 
 Hello!! 
-This is my ** Hack Club Stasis project** its based on reaction time and a bit of fun
+This is my Hack Club Stasis project  its based on reaction time and a bit of fun
 
 ---
 
@@ -44,7 +44,8 @@ This is my ** Hack Club Stasis project** its based on reaction time and a bit of
 
 ---
 
-## 💻 Code
+
+## Code
 
 ```cpp
 int btn1 = D0;
